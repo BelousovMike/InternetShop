@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetShop", "InternetShop\InternetShop.csproj", "{63B7181F-2001-40D4-9D17-624E2689739E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{EDC70BC9-A881-40AB-BC21-6B7E52454B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B7181F-2001-40D4-9D17-624E2689739E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B7181F-2001-40D4-9D17-624E2689739E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B7181F-2001-40D4-9D17-624E2689739E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B7181F-2001-40D4-9D17-624E2689739E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC70BC9-A881-40AB-BC21-6B7E52454B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC70BC9-A881-40AB-BC21-6B7E52454B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC70BC9-A881-40AB-BC21-6B7E52454B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC70BC9-A881-40AB-BC21-6B7E52454B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EA095D-FCA0-47B0-B091-11F81E726381}
+	EndGlobalSection
+EndGlobal
